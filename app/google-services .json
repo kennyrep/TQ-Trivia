@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424687416298",
+    "firebase_url": "https://tq-trivia-notification.firebaseio.com",
+    "project_id": "tq-trivia-notification",
+    "storage_bucket": "tq-trivia-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424687416298:android:a204e499be190048",
+        "android_client_info": {
+          "package_name": "com.example.tqtrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424687416298-9bhfuqj82f8iicr2oirfifu05gr9g7tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83sXyBT7eeKn9gfTva8nsY41rVIVlvqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424687416298-9bhfuqj82f8iicr2oirfifu05gr9g7tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
