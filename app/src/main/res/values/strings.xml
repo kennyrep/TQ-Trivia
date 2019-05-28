@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">TQ Trivia</string>
     <string name="nigeria_singer">On July 2nd 1992, this Nigerian singer was seen dancing naked on the lawn of the Aso Rock Villa in the FCT Abuja.</string>
+    <string name="msg_subscribed">Subscribe</string>
+    <string name="msg_subscribe_failed">Subscription Failed</string>
 </resources>
